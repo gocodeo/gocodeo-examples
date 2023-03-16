@@ -98,3 +98,4 @@ GoCodeo's comprehensive test suites can help you identify and correct bugs at an
 
 ## Terms of use
 - Please notice - similar to other popular generative-AI tools (such as copilot), we also transmit code snippets to our servers.# gocodeo-examples
+# gocodeo-examples
